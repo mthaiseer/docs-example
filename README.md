@@ -1,1 +1,4 @@
-Go to [about page](docs/about.md)
+#Basic Component
+##Basic containers
+
+View [view](docs/view.md)
