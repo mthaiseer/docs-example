@@ -1,4 +1,4 @@
-#Basic Component
-##Basic containers
+# Basic Component
+## Basic containers
 
-View [view](docs/view.md)
+- [view](docs/view.md)
