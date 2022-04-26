@@ -1,1 +1,1 @@
-Go to [about page](about.md)
+Go to [about page](docs/about.md)
