@@ -1,7 +1,7 @@
 # Introduction
 The **view container** component implements inserting a view block that can hold any other element in the applet interface, similar to the `<div>` element in HTML language.
 
-## usage restrictions
+## usage restrictions 
 
 - The view component can be scrolled by using a fixed width or height, using overflow-x or overflow-y to set the scroll property, or making a scroll view through scroll-view
 - The view component does not support covering the map component. It can be achieved through the same layer rendering cover-view to cover component.
