@@ -1,4 +1,6 @@
 # Basic Component
 ## Basic containers
 
-- [view](../docs/view.md)
+- [View](../docs/view.md)
+- [ScrollView](../docs/view.md)
+- [Swiper](../docs/view.md)
