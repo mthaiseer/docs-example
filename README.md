@@ -1,1 +1,1 @@
-# docs-example
+Go to [about page](about.md)
