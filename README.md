@@ -3,4 +3,4 @@
 
 - [View](/docs/View.md)
 - [ScrollView](/docs/ScrollView.md)
-- [Swiper](/docs/view.md)
+- [Swiper](/docs/Swiper.md)
